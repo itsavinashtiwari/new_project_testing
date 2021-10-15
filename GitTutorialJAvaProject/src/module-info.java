@@ -1,2 +1,3 @@
 module GitTutorialJavaProject {
+	side one
 }
